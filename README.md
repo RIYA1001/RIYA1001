@@ -1,20 +1,18 @@
 <h1 align="center">👋Hello, I'm Riya Kushwaha!👋</h1>
 <h3 align="center">🌱 Student | Learner | Developer | Designer | Sketcher 🌱</h3>
 
----
 
 [![An image of @riya1001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/riya1001)](https://holopin.io/@riya1001)
 
----
 
 - 👨‍💻 I'm a passionate Designer and a self learned developer.
 - 👯 I’m looking to collaborate on Hackathons and Open Source Contributions
 
+---
+
 <br clear="both">
 <h2>Languages and Tech</h2>
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" height="40" alt="discord logo"  />
-<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
