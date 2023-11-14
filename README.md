@@ -5,8 +5,8 @@
 
 [![An image of @riya1001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/riya1001)](https://holopin.io/@riya1001)
 
-<div align="center">👨‍💻 I'm a passionate Designer and a self learned developer 👨‍💻</div>
-<div align="center">👯 I’m looking to collaborate on Hackathons and Open Source Contributions 👯</div>
+<p align="center">👨‍💻 I'm a passionate Designer and a self learned developer 👨‍💻</p>
+<p align="center">👯 I’m looking to collaborate on Hackathons and Open Source Contributions 👯</p>
 
 <div align="center">
 <img src="https://profile-counter.glitch.me/Riya1001/count.svg?"  />
