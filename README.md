@@ -1,5 +1,5 @@
 <h1 align="center">👋Hello, I'm Riya Kushwaha!👋</h1>
-<h3 align="center">🌱 Student | Learner | Developer | Sketcher 🌱</h3>
+<h3 align="center">🌱 Student | Learner | Developer | Designer | Sketcher 🌱</h3>
 
 ---
 
