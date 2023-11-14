@@ -36,7 +36,7 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
 <img width="12" />
-<img src="./icons/Appwrite.svg" height="40" alt="appwrite logo"  />
+<img src="https://skillicons.dev/icons?i=all" height="40" alt="appwrite logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 <img width="12" />
