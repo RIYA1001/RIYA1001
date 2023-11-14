@@ -17,6 +17,7 @@
 <h2>Languages and Tech</h2>
 <div align="left">
 <img src="https://www.flaticon.com/free-icon/discord_3670325?term=discord+logo&page=1&position=16&origin=search&related_id=3670325" height="40" alt="discord logo"  />
+<i class="fi fi-brands-discord"></i>
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 <img width="12" />
