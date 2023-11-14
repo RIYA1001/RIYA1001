@@ -15,7 +15,9 @@
 ---
 <br clear="both">
 <h2>Work Stats</h2>
+<div align="center">
 ![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=riya1001&show_icons=true&theme=radical)
+</div>
 
 ---
 <br clear="both">
