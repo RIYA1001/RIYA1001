@@ -12,6 +12,8 @@
 <img src="https://profile-counter.glitch.me/Riya1001/count.svg?"  />
 </div>
 
+![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=riya1001&show_icons=true&theme=radical)
+
 ---
 <br clear="both">
 <h2>Languages and Tech</h2>
