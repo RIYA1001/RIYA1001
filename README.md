@@ -1,15 +1,14 @@
 <h1 align="center">👋Hello, I'm Riya Kushwaha!👋</h1>
 <h3 align="center">🌱 Student | Learner | Developer | Designer | Sketcher 🌱</h3>
-<br>
+
+---
 
 [![An image of @riya1001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/riya1001)](https://holopin.io/@riya1001)
 
-<br>
 - 👨‍💻 I'm a passionate Designer and a self learned developer.
 - 👯 I’m looking to collaborate on Hackathons and Open Source Contributions
 
 ---
-
 <br clear="both">
 <h2>Languages and Tech</h2>
 <div align="left">
