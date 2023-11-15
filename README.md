@@ -16,7 +16,7 @@
 
 <h2>Work Stats</h2>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RIYA1001)](https://github.com/RIYA1001/github-readme-stats)
+![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=riya1001&show_icons=true&theme=radical&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riya1001&layout=compact&theme=radical)
 
