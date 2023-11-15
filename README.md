@@ -16,7 +16,7 @@
 <br clear="both">
 <h2>Work Stats</h2>
 <div align="center">
-[![Riya's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=riya1001)](https://github.com/riya1001/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/riya1001/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riya1001&layout=compact)
 </div>
