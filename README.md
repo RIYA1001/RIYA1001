@@ -15,15 +15,14 @@
 ---
 <br clear="both">
 <h2>Work Stats</h2>
-<div align="center">
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/riya1001/github-readme-stats)
+
+
 
 
 https://github-profile-trophy.vercel.app/?username=riya1001&theme=flat
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riya1001&layout=compact)
-</div>
 
 ---
 <br clear="both">
