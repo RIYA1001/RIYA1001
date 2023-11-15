@@ -16,13 +16,7 @@
 <br clear="both">
 <h2>Work Stats</h2>
 
-
-
-
-https://github-profile-trophy.vercel.app/?username=riya1001&theme=flat
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riya1001&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riya1001&layout=compact&theme=radical)
 
 ---
 <br clear="both">
