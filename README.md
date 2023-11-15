@@ -16,7 +16,7 @@
 <br clear="both">
 <h2>Work Stats</h2>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riya1001&layout=compact&theme=radical)
 
 ---
 <br clear="both">
