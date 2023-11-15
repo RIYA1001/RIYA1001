@@ -18,10 +18,10 @@
 <div align="center">
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/riya1001/github-readme-stats)
 
-<br/>
+
 https://github-profile-trophy.vercel.app/?username=riya1001&theme=flat
 
-<br/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riya1001&layout=compact)
 </div>
 
