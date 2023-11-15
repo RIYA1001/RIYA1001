@@ -13,13 +13,12 @@
 </div>
 
 ---
-<br clear="both">
 <h2>Work Stats</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riya1001&layout=compact&theme=radical)
 
 ---
-<br clear="both">
+
 <h2>Languages and Tech</h2>
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
