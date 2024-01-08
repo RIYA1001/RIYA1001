@@ -18,7 +18,7 @@
 
 ![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=riya1001&show_icons=true&theme=radical&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riya1001&locale=en&hide_title=false&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riya1001&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=10)
 
 ---
 
