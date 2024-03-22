@@ -19,6 +19,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riya1001&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=10)
 
+<a href="https://stats.quine.sh/riya1001/languages-over-time?theme=dark">
+  <img src="https://stats.quine.sh/riya1001/languages-over-time?theme=dark" alt="Languages Over Time" width="450">
+</a>
+
 ---
 
 <h2>Languages and Tech</h2>
