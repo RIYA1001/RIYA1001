@@ -1,5 +1,5 @@
 <h1 align="center">👋Hello, I'm Riya Kushwaha!👋</h1>
-<p align="center"><b>🌱 Student | Learner | Developer | Designer | Sketcher 🌱</b></p>
+<p align="center"><b>🌱 Developer | Designer | Sketcher 🌱</b></p>
 <br>
 
 [![An image of @riya1001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/riya1001)](https://holopin.io/@riya1001)
