@@ -1,11 +1,8 @@
 <h1 align="center">👋Hello, I'm Riya Kushwaha!👋</h1>
-<p align="center"><b>🌱 Developer | Designer | Sketcher 🌱</b></p>
+<p align="center"><b>Full Stack Developer⚡ | Cloud Enthusiasm👨‍💻 | 3D Artist🌱</b></p>
 <br>
 
 [![An image of @riya1001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/riya1001)](https://holopin.io/@riya1001)
-
-<p align="center">👨‍💻 I'm a passionate Designer and a self learned developer 👨‍💻</p>
-<p align="center">👯 I’m looking to collaborate on Hackathons and Open Source Contributions 👯</p>
 
 <div align="center">
 <img src="https://profile-counter.glitch.me/Riya1001/count.svg?"  />
