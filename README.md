@@ -16,13 +16,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riya1001&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=10)
 
-<div align="center">
-
-[![GitHub Stats](https://stats.quine.sh/Riya1001/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Riya1001)
-[![Riya1001's GitHub | Dependencies](https://stats.quine.sh/Riya1001/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Riya1001)
-
-</div>
-
 ---
 
 <h2>Languages and Tech</h2>
@@ -76,6 +69,3 @@
 <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" height="40" alt="window logo"  />
 <img width="12" />
 </div>
-
-
-
