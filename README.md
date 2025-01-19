@@ -1,5 +1,6 @@
 <h1 align="center">👋Hello, I'm Riya Kushwaha!👋</h1>
 <p align="center"><b>Full Stack Developer⚡ | Cloud Enthusiasm👨‍💻 | 3D Artist🌱</b></p>
+<br>
 
 [![An image of @riya1001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/riya1001)](https://holopin.io/@riya1001)
 
@@ -14,6 +15,13 @@
 ![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=riya1001&show_icons=true&theme=radical&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riya1001&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=10)
+
+<div align="center">
+
+[![GitHub Stats](https://stats.quine.sh/Riya1001/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Riya1001)
+[![Riya1001's GitHub | Dependencies](https://stats.quine.sh/Riya1001/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Riya1001)
+
+</div>
 
 ---
 
