@@ -12,9 +12,17 @@
 
 <h2>Work Stats</h2>
 
-![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=riya1001&show_icons=true&theme=radical&rank_icon=github)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riya1001&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=10)
+<p align="center">
+ <div align="center">
+   <a href="https://github.com/riya1001"> 
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riya1001&theme=algolia" width="100%" /> </br></br>
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riya1001&theme=algolia" width="31%" align="left"/>
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riya1001&theme=algolia" width="31%" align="right" />
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=riya1001&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
+    </br></br>
+   </a>
+ <div align="center">
+</p >
 
 ---
 
