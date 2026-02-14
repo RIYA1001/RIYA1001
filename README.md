@@ -26,11 +26,11 @@
 ✨ Collaborating in remote, product-focused teams  
 
 ### Quick Facts
-- ☕ Runs on curiosity and good documentation  
-- 🐛 Yes, I still debug with `console.log()`  
-- 📦 I like finishing things more than starting them  
-- 🔁 Small improvements every day > big rewrites  
-- 🌱 Currently learning more about scalable system design
+☕ Runs on curiosity and good documentation  
+🐛 Yes, I still debug with `console.log()`  
+📦 I like finishing things more than starting them  
+🔁 Small improvements every day > big rewrites  
+🌱 Currently learning more about scalable system design
 
 ---
 
@@ -47,13 +47,12 @@
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,fastapi,cloudflare,githubactions" />
 </p>
-REST APIs • service integrations • auth • automation
 
 ### Databases & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,gcp,aws" />
+  <img src="https://skillicons.dev/icons?i=mysql,prisma,gcp,aws" />
 </p>
 
 ### Programming Languages
@@ -68,7 +67,9 @@ REST APIs • service integrations • auth • automation
 CI/CD • Lighthouse • Agile/Scrum • Canvas
 
 ### 3D & Simulation
-Blender • TinkerCAD • Unity (basic)
+<p>
+  <img src="https://skillicons.dev/icons?i=blender,unity" />
+</p>
 
 ---
 
@@ -112,7 +113,3 @@ I love learning in public and collaborating with engineers across different code
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-<h3 align="center">Building • Learning • Improving</h3>
