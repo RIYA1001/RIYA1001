@@ -1,77 +1,118 @@
-<h1 align="center">👋Hello, I'm Riya Kushwaha!👋</h1>
-<p align="center"><b>Full Stack Developer⚡ | Cloud Enthusiasm👨‍💻 | 3D Artist🌱</b></p>
-<br>
+<!-- ===================================================== -->
+<!-- INTRO -->
+<!-- ===================================================== -->
 
-[![An image of @riya1001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/riya1001)](https://holopin.io/@riya1001)
-
-<div align="center">
-
-</div>
-
----
-
-<h2>Work Stats</h2>
+<h1 align="center">👋 Hi, I'm Riya Kushwaha</h1>
+<h3 align="center">Full-Stack Developer • AI Explorer • Cloud Enthusiast</h3>
 
 <p align="center">
- <div align="center">
-   <a href="https://github.com/riya1001"> 
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Riya1001&theme=algolia" width="100%" /> </br></br>
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Riya1001&theme=algolia" width="31%" align="center"/>
-    </br></br>
-   </a>
- <div align="center">
-</p >
+  <a href="https://holopin.io/@riya1001">
+    <img src="https://holopin.me/riya1001" alt="Holopin badges"/>
+  </a>
+</p>
 
 ---
 
-<h2>Languages and Tech</h2>
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-<img width="12" />
-<img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" height="40" alt="tailwindcss logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-<img width="12" />
-<img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" height="40" alt="npm logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
-<img width="12" />
-<img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" height="40" alt="appwrite logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-<img width="12" />
-<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="40" alt="vscode logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-<img width="12" />
-<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" height="40" alt="sqlite logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-<img width="12" />
-<img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" height="40" alt="window logo"  />
-<img width="12" />
-</div>
+<!-- ===================================================== -->
+<!-- WHAT I LOVE -->
+<!-- ===================================================== -->
+
+## ❤️ What I Love Working On
+
+✨ Building real products, not just prototypes  
+✨ Turning ideas into shipped features  
+✨ Integrating AI into everyday workflows  
+✨ Improving speed, reliability, and user experience  
+✨ Collaborating in remote, product-focused teams  
+
+### Quick Facts
+- ☕ Runs on curiosity and good documentation  
+- 🐛 Yes, I still debug with `console.log()`  
+- 📦 I like finishing things more than starting them  
+- 🔁 Small improvements every day > big rewrites  
+- 🌱 Currently learning more about scalable system design
+
+---
+
+<!-- ===================================================== -->
+<!-- CORE TECH -->
+<!-- ===================================================== -->
+
+## 🛠️ Core Technologies
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=svelte,react,nextjs,html,css,tailwind,bootstrap,materialui,wordpress" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase" />
+</p>
+REST APIs • service integrations • auth • automation
+
+### Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,gcp,aws" />
+</p>
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,java,python" />
+</p>
+
+### Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma" />
+</p>
+CI/CD • Lighthouse • Agile/Scrum • Canvas
+
+### 3D & Simulation
+Blender • TinkerCAD • Unity (basic)
+
+---
+
+<!-- ===================================================== -->
+<!-- COMMUNITY -->
+<!-- ===================================================== -->
+
+## 🌍 Open Source & Community
+
+I love learning in public and collaborating with engineers across different codebases.
+
+- 🎉 **Hacktoberfest (2023 & 2024)** → 21+ merged PRs  
+- 🌟 **GirlScript Summer of Code 2024** → 7+ contributions  
+- 🏅 **QubitX Hackathon** → Ranked **11th / 48 teams globally** from 600+ participants.  
+
+---
+
+<!-- ===================================================== -->
+<!-- STREAK -->
+<!-- ===================================================== -->
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riya1001&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<!-- ===================================================== -->
+<!-- CONNECT -->
+<!-- ===================================================== -->
+
+## 🤝 Let’s Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/riya-anil-kushwaha">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:riyakushwaha253@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">Building • Learning • Improving</h3>
