@@ -1,9 +1,20 @@
-<!-- ===================================================== -->
-<!-- INTRO -->
-<!-- ===================================================== -->
 
-<h1 align="center">👋 Hi, I'm Riya Kushwaha</h1>
-<h3 align="center">Full-Stack Developer • AI Explorer • Cloud Enthusiast</h3>
+<!-- ================= ANIMATED HEADER ================= -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&text=RIYA%20KUSHWAHA&fontSize=48&fontColor=ffffff&animation=twinkling&color=0:6A5ACD,50:483D8B,100:00BFA6"
+    width="100%"
+  />
+</p>
+
+<h3 align="center">
+  Full-Stack Developer · AI Enthusiast
+</h3>
+
+<p align="center">
+  Building for the web. Experimenting with AI. Making ideas work.
+</p>
 
 <p align="center">
   <a href="https://holopin.io/@riya1001">
@@ -13,103 +24,68 @@
 
 ---
 
-<!-- ===================================================== -->
-<!-- WHAT I LOVE -->
-<!-- ===================================================== -->
+<!-- ================= ABOUT ================= -->
 
-## ❤️ What I Love Working On
+## 💻 A Little About Me
 
-✨ Building real products, not just prototypes  
-✨ Turning ideas into shipped features  
-✨ Integrating AI into everyday workflows  
-✨ Improving speed, reliability, and user experience  
-✨ Collaborating in remote, product-focused teams  
-
-### Quick Facts
-☕ Runs on curiosity and good documentation  
-🐛 Yes, I still debug with `console.log()`  
-📦 I like finishing things more than starting them  
-🔁 Small improvements every day > big rewrites  
-🌱 Currently learning more about scalable system design
+Full-stack developer with 2+ years of experience building production applications. I enjoy working across the stack, adapting to new technologies, and turning product requirements into working features.
 
 ---
 
-<!-- ===================================================== -->
-<!-- CORE TECH -->
-<!-- ===================================================== -->
+<!-- ================= CURRENTLY ================= -->
 
-## 🛠️ Core Technologies
+## 🧪 Currently...
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=svelte,react,nextjs,html,css,tailwind,bootstrap,materialui,wordpress" />
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase,fastapi,cloudflare,githubactions" />
-</p>
-
-### Databases & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,prisma,gcp,aws" />
-</p>
-
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,java,python" />
-</p>
-
-### Tools & Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma" />
-</p>
-CI/CD • Lighthouse • Agile/Scrum • Canvas
-
-### 3D & Simulation
-<p>
-  <img src="https://skillicons.dev/icons?i=blender,unity" />
-</p>
+- 🤖 Exploring AI-powered applications.
+- ⚡ Building with TypeScript, React, SvelteKit, and Node.js.
+- 🧠 Learning more about system design and software architecture.
+- 🐛 Occasionally debugging things that shouldn't be broken.
 
 ---
 
-<!-- ===================================================== -->
-<!-- COMMUNITY -->
-<!-- ===================================================== -->
+<!-- ================= GITHUB ACTIVITY ================= -->
 
-## 🌍 Open Source & Community
-
-I love learning in public and collaborating with engineers across different codebases.
-
-- 🎉 **Hacktoberfest (2023 & 2024)** → 21+ merged PRs  
-- 🌟 **GirlScript Summer of Code 2024** → 7+ contributions  
-- 🏅 **QubitX Hackathon** → Ranked **11th / 48 teams globally** from 600+ participants.  
-
----
-
-<!-- ===================================================== -->
-<!-- STREAK -->
-<!-- ===================================================== -->
-
-## 🔥 Contribution Streak
+## 📈 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riya1001&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=riya1001&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya1001&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=riya1001&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
 
-<!-- ===================================================== -->
-<!-- CONNECT -->
-<!-- ===================================================== -->
+<!-- ================= CONNECT ================= -->
 
-## 🤝 Let’s Connect
+## 🤝 Say Hello!
+
+Always happy to connect with fellow developers, exchange ideas, and build interesting things.
 
 <p align="center">
   <a href="https://linkedin.com/in/riya-anil-kushwaha">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:riyakushwaha253@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+<!-- ================= ANIMATED FOOTER ================= -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:00BFA6,50:483D8B,100:6A5ACD"
+    width="100%"
+  />
 </p>
