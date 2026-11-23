@@ -1,6 +1,6 @@
 
 <!-- ================================================== -->
-<!--                    GAME HEADER                      -->
+<!--                      HEADER                        -->
 <!-- ================================================== -->
 
 <p align="center">
@@ -23,22 +23,10 @@
 ---
 
 <!-- ================================================== -->
-<!--                    PLAYER PROFILE                   -->
+<!--                   CURRENT FOCUS                    -->
 <!-- ================================================== -->
 
-## 👾 PLAYER PROFILE
-
-Full-stack developer with 2+ years of experience building production applications.
-
-I work across frontend and backend development, contribute to product features, integrate AI capabilities, and adapt to technologies based on what the product needs.
-
----
-
-<!-- ================================================== -->
-<!--                     CURRENT QUEST                   -->
-<!-- ================================================== -->
-
-## 🗺️ CURRENT QUEST
+## 🚀 Currently Working On
 
 - ⚡ Building with TypeScript, React, SvelteKit, and Node.js.
 - 🤖 Working with AI-powered applications and API integrations.
@@ -48,34 +36,10 @@ I work across frontend and backend development, contribute to product features, 
 ---
 
 <!-- ================================================== -->
-<!--                    CODING COMPANION                 -->
+<!--                    GITHUB STATS                    -->
 <!-- ================================================== -->
 
-## 🐉 MY CODING COMPANION
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Deepak-Kambala/Drago/gh-pages/users/riya1001/dragon.gif"
-    width="520"
-    alt="My evolving coding dragon"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Deepak-Kambala/Drago/gh-pages/users/riya1001/dragon-status.svg"
-    width="520"
-    alt="Dragon activity status"
-  />
-</p>
-
----
-
-<!-- ================================================== -->
-<!--                     PLAYER STATS                   -->
-<!-- ================================================== -->
-
-## 🏆 PLAYER STATS
+## 📊 GitHub Activity
 
 <p align="center">
   <img
@@ -100,15 +64,9 @@ I work across frontend and backend development, contribute to product features, 
 <!--                      CONNECT                       -->
 <!-- ================================================== -->
 
-<h2 align="center">🎯 THE ADVENTURE CONTINUES...</h2>
+## 🤝 Let's Connect!
 
-<p align="center">
-  Still learning. Still building. Getting better with every release.
-</p>
-
-<h3 align="center">
-  🤝 LET'S CONNECT!
-</h3>
+Always happy to connect with fellow developers, exchange ideas, and build interesting things together.
 
 <p align="center">
   <a href="https://linkedin.com/in/riya-anil-kushwaha">
@@ -120,11 +78,11 @@ I work across frontend and backend development, contribute to product features, 
 </p>
 
 <p align="center">
-  <i>Thanks for visiting my little corner of the internet. 👾</i>
+  <i>Thanks for stopping by! ✨</i>
 </p>
 
 <!-- ================================================== -->
-<!--                     GAME FOOTER                    -->
+<!--                      FOOTER                        -->
 <!-- ================================================== -->
 
 <p align="center">
